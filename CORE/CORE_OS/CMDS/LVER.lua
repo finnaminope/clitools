@@ -1,1 +1,0 @@
-SYSprint("SYSTEM", "RUNNING " .. _VERSION)
