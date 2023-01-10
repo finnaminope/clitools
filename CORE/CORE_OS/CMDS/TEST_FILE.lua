@@ -1,1 +1,0 @@
-SYSprint("TEST_FILE_CMD_TEST","TEST")
